@@ -1,0 +1,8 @@
+Permainan tic tac toe adalah permainan logika sederhana yang berjenis 
+seperti permainan papan dengan 3 ukuran, yaitu 3x3, 5x5 dan 7x7.Tujuan permainan ini yaitu 
+menempatkan 3 simbol pemain secara lurus untuk medapatkan skor, baik secara vertikal, horizontal 
+maupun diagonal. 
+
+Permainan ini dikembangakan oleh Caturbintari dan Kevandra yang merupakan mahasiswa aktif tingkat I 
+Prodi D4-Teknik Informatika tahun akademik 2020/2021 serta untuk  memenuhi salah satu tugas besar 
+mata kuliah Dasar Dasar Pemograman Praktikum. 
